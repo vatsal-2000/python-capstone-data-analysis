@@ -5,7 +5,7 @@ This project focuses on analyzing a dataset using Python to uncover trends, patt
 
 ## Tools & Technologies
 - Python (Pandas, NumPy)
-- Data Visualization (Matplotlib / Seaborn)
+- Data Visualization
 - Jupyter Notebook
 
 ## Key Tasks Performed
