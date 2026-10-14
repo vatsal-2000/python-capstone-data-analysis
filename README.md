@@ -20,7 +20,7 @@ This project focuses on analyzing a real-world dataset using Python to uncover t
 - Generated actionable insights for decision-making
 
 ## Files Included
-- Capstone_Project.ipynb (main analysis notebook)
+- Capstone_Project (2).ipynb (main analysis notebook)
 - Report (project summary and findings)
 
 ## How to Run
