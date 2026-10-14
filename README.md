@@ -1,7 +1,7 @@
 # Python Capstone Data Analysis
 
 ## Overview
-This project focuses on analyzing a real-world dataset using Python to uncover trends, patterns, and key business insights.
+This project focuses on analyzing a dataset using Python to uncover trends, patterns, and key business insights.
 
 ## Tools & Technologies
 - Python (Pandas, NumPy)
